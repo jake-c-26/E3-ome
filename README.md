@@ -44,6 +44,15 @@ https://jake-c-26.github.io/E3-ome/Expression/Monaco/
 
 ---
 
+## 📦 Data
+
+The datasets provided here include the high-confidence category 1 E3 genes from the E3-ome, together with the full gene curation dataset underlying resource development.
+
+-[High confidence 672 E3s](https://github.com/FelthamLaboratory/E3-ome/blob/main/data/high-confidence-672-e3s.xlsx)
+-[All genes curation](https://github.com/FelthamLaboratory/E3-ome/blob/main/data/all-genes-curation.xlsx)
+
+
+
 ## 📖 Citation
 
 If you use the E3-ome resource, please cite:
