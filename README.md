@@ -53,7 +53,7 @@ If you use the E3-ome resource, please cite:
 
 Chua NK, González-Robles TJ, Reddington CJ, Dudley-Fraser J, Birkinshaw RW, Han J, Solano A, Wong SW, Kochańczyk T, Peter JJ, Nakasone MA, Aust F, Munro J, Tong YH, Iskander J, Abeysekera W, Garnham A, Huckstep H, Ritchie ME, Wertz I, Hymowitz S, Kumar S, Conaway RC, Privé GG, Bullock AN, Babon JJ, Klevit RE, Lorenz S, Ciulli A, Fischer ES, Thomä NH, Nowak RP, Schulman BA, Rapé M, Rittinger K, Pagan JK, Bahlo M, Mackay J, Mace PDM, Lima CD, Hay RT, Komander D, Lechtenberg BC, Joazeiro CAP, Pagano M, Hofmann K, Feltham R. (2026)
 
-**The E3-ome gene-centric compendium reveals the human E3 ligase landscape.** *Cell.*
+[The E3-ome gene-centric compendium reveals the human E3 ligase landscape (Cell, 2026)](https://linkinghub.elsevier.com/retrieve/pii/S0092867426001169)
 
 ---
 
