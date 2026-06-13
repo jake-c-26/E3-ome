@@ -2,13 +2,9 @@
 
 This repository contains additional analyses and companion resources built upon the human E3-ome.
 
-The original E3-ome resource is maintained by the Feltham Laboratory:
+**The original E3-ome resource is maintained by the Feltham Laboratory:** https://github.com/FelthamLaboratory/E3-ome
 
-**Main E3-ome repository:**
-https://github.com/FelthamLaboratory/E3-ome
-
-**Original E3-ome publication:**
-https://linkinghub.elsevier.com/retrieve/pii/S0092867426001169
+**Original E3-ome publication:** https://linkinghub.elsevier.com/retrieve/pii/S0092867426001169
 
 <img width="698" height="565" alt="Paper" src="https://github.com/user-attachments/assets/f2288c08-e1c9-478a-9806-69d3c23c549b" />
 
@@ -48,9 +44,9 @@ https://jake-c-26.github.io/E3-ome/Expression/Monaco/
 
 The datasets provided here include the high-confidence category 1 E3 genes from the E3-ome, together with the full gene curation dataset underlying resource development.
 
--[High confidence 672 E3s](https://github.com/FelthamLaboratory/E3-ome/blob/main/data/high-confidence-672-e3s.xlsx)
+- [High confidence 672 E3s](https://github.com/FelthamLaboratory/E3-ome/blob/main/data/high-confidence-672-e3s.xlsx)
 
--[All genes curation](https://github.com/FelthamLaboratory/E3-ome/blob/main/data/all-genes-curation.xlsx)
+- [All genes curation](https://github.com/FelthamLaboratory/E3-ome/blob/main/data/all-genes-curation.xlsx)
 
 ---
 
