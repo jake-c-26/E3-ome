@@ -1,4 +1,4 @@
-# 🧬 Human E3-ome analyses extensiion
+# 🧬 Human E3-ome analyses extension
 
 This repository contains additional analyses and companion resources built upon the human E3-ome.
 
