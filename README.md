@@ -1,4 +1,4 @@
-# 🧬 E3-ome analyses extensiion
+# 🧬 Human E3-ome analyses extensiion
 
 This repository contains additional analyses and companion resources built upon the human E3-ome.
 
@@ -6,6 +6,12 @@ The original E3-ome resource is maintained by the Feltham Laboratory:
 
 **Main E3-ome repository:**
 https://github.com/FelthamLaboratory/E3-ome
+
+**Original E3-ome publication:**
+https://linkinghub.elsevier.com/retrieve/pii/S0092867426001169
+
+<img width="698" height="565" alt="Paper" src="https://github.com/user-attachments/assets/f2288c08-e1c9-478a-9806-69d3c23c549b" />
+
 
 This repository serves as an extension of the E3-ome project, providing additional datasets and exploratory analyses of the human E3 ligase landscape.
 
