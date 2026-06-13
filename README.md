@@ -1,6 +1,6 @@
-# 🧬 E3-ome Expression Atlas
+# 🧬 E3-ome analyses extensiion
 
-This repository contains additional expression analyses and companion resources built upon the human E3-ome.
+This repository contains additional analyses and companion resources built upon the human E3-ome.
 
 The original E3-ome resource is maintained by the Feltham Laboratory:
 
