@@ -35,7 +35,7 @@ Features:
 Expression profiles of 672 human E3 ligases across immune cell populations from the Monaco dataset.
 
 **Interactive :**
-https://jake-c-26.github.io/E3-ome/Expression/Monaco/index2
+https://jake-c-26.github.io/E3-ome/Expression/Monaco/index.html
 
 ---
 
