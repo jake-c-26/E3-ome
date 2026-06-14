@@ -28,7 +28,7 @@ Features:
 
 ---
 
-## 📊 Expression atlases
+## 📊 Exploratory atlases
 
 ### 🛡️ Monaco immune cell atlas
 
@@ -36,6 +36,13 @@ Expression profiles of 672 human E3 ligases across immune cell populations from 
 
 **Interactive :**
 https://jake-c-26.github.io/E3-ome/Expression/Monaco/index2.html
+
+### 🛡️ CRISPR screen atlas
+
+E3-ome CRISPR screening atlas integrating data from the BioGRID ORCS database. Explore E3 ligase fitness effects, genetic dependencies, and screening phenotypes across diverse biological contexts.
+
+**Interactive :**
+https://jake-c-26/E3-ome/blob/main/CRISPRscreen/BioGRID/index.html
 
 ---
 
