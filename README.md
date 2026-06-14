@@ -42,7 +42,7 @@ https://jake-c-26.github.io/E3-ome/Expression/Monaco/index3.html
 E3-ome CRISPR screening atlas integrating data from the BioGRID ORCS database. Explore E3 ligase fitness effects, genetic dependencies, and screening phenotypes across diverse biological contexts.
 
 **Interactive :**
-https://jake-c-26.github.io/E3-ome/CRISPRscreen/BioGRID/index.html
+https://jake-c-26.github.io/E3-ome/CRISPRScreen/BioGRID/index.html
 
 ---
 
